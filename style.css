@@ -238,8 +238,8 @@
         }
 
         .about-image {
-            width: 300px;
-            height: 300px;
+            width: 400px;
+            height: 400px;
             border-radius: 50%;
             background: linear-gradient(135deg, #06b6d4, #3b82f6);
             display: flex;
