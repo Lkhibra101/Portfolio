@@ -110,8 +110,6 @@
             submitBtn.textContent = 'Sending...';
             submitBtn.disabled = true;
             
-            // Since we're using Netlify forms, the form will be submitted automatically
-            // We'll show a success message after a delay to simulate processing
             setTimeout(() => {
                 submitBtn.textContent = 'Message Sent!';
                 submitBtn.style.background = '#10b981';
